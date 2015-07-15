@@ -1,0 +1,1 @@
+This Project targets to port the MW2-SP-Map "Cliffhanger" to be playable with IW4M-MP.
